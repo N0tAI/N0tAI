@@ -1,5 +1,5 @@
 ## Hello there
-(Not) General Kenobi!
+~~General Kenobi!~~
 I am N0tAI, a Canadian College student currently going through his first year of Computer Programming and Analysis.
 I enjoy coding in my spare time, but particularly lean towards low level aspects such as Operating Systems, Compilers/Programming Languages, and reinventing the many wheels coders before me have made.
 
@@ -13,6 +13,7 @@ I enjoy learning in many forms but particularly things related to programming, c
 - [ ] **C**
 - [ ] **C++**
 - [ ] **x86_64**
+- [ ] **ARM Assembly**
 - [ ] **Python**
 - [ ] **Rust**
 - [ ] **Go**
