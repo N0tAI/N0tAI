@@ -1,9 +1,9 @@
 # Hello there
 ~~General Kenobi~~
-I am Thayen, a Canadian College student currently going through his first year of Computer Programming and Analysis.
-I enjoy coding in my spare time, but am particularly interested in low level computing topics such as Operating Systems, Compilers/Programming Languages, and physical hardware. While also reinventing the many wheels coders before me have made.
+I am Thayen, a Canadian College student currently going through his second year of Fanshawe's Computer Programming and Analysis.
+I enjoy learning and improving my knowledge in any computing topic in my spare time, but am particularly interested in low level computing topics including as Operating Systems, Compilers/Programming Languages and their optimizations, physical hardware, and runtime environments. While also reinventing and learning the many wheels coders before me have made.
 
-I enjoy learning in many forms but particularly things related to programming/computer science, mathematics, physics, politics, and history.
+I enjoy learning topics such as programming/computer science, mathematics, physics, politics, and history; streaming youtube or another provider, and the occasional gaming periods.
 
 I would currently call myself proficient with a few languages such as:
 - C#
